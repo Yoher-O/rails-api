@@ -20,7 +20,7 @@ This api is only to a test, don't use in production
 - You can test that https://questions-answers-api.herokuapp.com/api/v1
 
 # Examples to get
-
+# asdasdad
 # Gets
 - GET ```https://questions-answers-api.herokuapp.com/api/v1/users``` to get all users
 - GET ```https://questions-answers-api.herokuapp.com/api/v1/users/1``` to get user with id = 1
